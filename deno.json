@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "inspect-brk": true,
+    "allow-net": true,
+    "allow-read": true
+  }
+}
